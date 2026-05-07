@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER ANIMÉ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30&height=180&section=header&text=Mihaingo%20Andiniaina&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39D353&height=180&section=header&text=Mihaingo%20Andiniaina&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%26+AI+Engineer+%F0%9F%9A%80;n8n+Automation+Architect+%E2%9A%A1;ReactJS+%7C+Python+%7C+FastAPI+%7C+Next.js;Master's+2+%40+EMIT+Fianarantsoa+%F0%9F%8E%93;Always+building%2C+always+learning+%F0%9F%94%A5" alt="Typing SVG" />

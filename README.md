@@ -86,7 +86,6 @@ motto    : "Convertir des processus complexes en solutions intelligentes"
 >
 > - Developed a **national NUI management system** for Malagasy citizens
 > - Identity verification & birth certificate association
-> - Tech: React, Node.js
 
 </details>
 
@@ -97,7 +96,6 @@ motto    : "Convertir des processus complexes en solutions intelligentes"
 >
 > - Built and deployed **UFM Madagascar** platform
 > - Developed official website for Auxis
-> - Full production deployment
 
 </details>
 
@@ -106,15 +104,14 @@ motto    : "Convertir des processus complexes en solutions intelligentes"
 
 > **Duration:** 2 months | Fianarantsoa
 >
-> - Designed digital solution for **Association des Grandes Villes de Madagascar**
-> - Partnership with UNDP
+> - Digital solution for **Association des Grandes Villes de Madagascar** (UNDP)
 
 </details>
 
 <details>
 <summary><b>📱 Mobile Developer Intern — Ipsodia France (2024)</b></summary>
 
-> **Duration:** 2 months | Remote / France
+> **Duration:** 2 months | Remote
 >
 > - Built a **coworking space management mobile app**
 
@@ -125,7 +122,7 @@ motto    : "Convertir des processus complexes en solutions intelligentes"
 
 > **Duration:** 3 months
 >
-> - Created an online platform for **business classification & nomenclature** of Fianarantsoa
+> - Online platform for **business classification & nomenclature** of Fianarantsoa
 
 </details>
 
@@ -135,22 +132,22 @@ motto    : "Convertir des processus complexes en solutions intelligentes"
 
 | 💡 Project | 📝 Description | 🔧 Stack |
 |:----------|:------------|:--------|
-| 🤖 **ErrorFix AI** | AI-powered error correction tool — CONNECTER-IA research project (V1 live) | Python · FastAPI · Transformers |
-| 🤖 **VPS Automation Infra** | Self-hosted n8n + PostgreSQL on VPS via Docker, 24/7 availability | Docker · n8n · PostgreSQL · VPS |
-| 📊 **Job Scraper & Price Monitor** | Auto job scraping + Sannifer price tracking, orchestrated via n8n | Python · n8n · PostgreSQL |
-| 💹 **Financial Market Predictor** | ML + LSTM model for stock market movement prediction | Python · PyTorch · Pandas |
-| 🏥 **Health App (EMIHACK 3.0)** | 24h hackathon — web app with React + Node.js + AI to solve health problems | React · Node.js · Python · AI |
-| 🏙️ **NUI System** | National citizen ID management system with birth certificate verification | React · Node.js |
+| 🤖 **ErrorFix AI** | AI error correction — CONNECTER-IA research project (V1 live) | Python · FastAPI · Transformers |
+| ⚡ **VPS Automation Infra** | Self-hosted n8n + PostgreSQL on VPS via Docker, 24/7 | Docker · n8n · PostgreSQL |
+| 📊 **Job Scraper & Price Monitor** | Auto job scraping + price tracking via n8n | Python · n8n · PostgreSQL |
+| 💹 **Financial Market Predictor** | ML + LSTM model for stock market prediction | Python · PyTorch · Pandas |
+| 🏥 **Health App (EMIHACK 3.0)** | 24h hackathon — React + Node.js + AI health solution | React · Node.js · Python |
+| 🏙️ **NUI System** | National citizen ID management with birth certificate verification | React · Node.js |
 
 ---
 
 ## 🏆 Achievements & Competitions
 
 ```
-🥈  2nd Place  — EMIHACK 3.0 Algorithms  (Python · 3h intensive problem solving)
+🥈  2nd Place  — EMIHACK 3.0 Algorithms  (Python · 3h intensive)
 🥉  3rd Place  — EMIHACK 3.0 Dev         (24h hackathon · React + Node.js + AI)
 👥  Team Lead  — Inter-University Hackathon 2025 (SmartOne Andohatapenaka)
-🔬  Researcher — CONNECTER-IA Scientific Research Project (Université de Fianarantsoa)
+🔬  Researcher — CONNECTER-IA Scientific Research Project
 🎓  Tutor     — L1 Students @ EMIT (2025)
 📜  Member    — EMITECH (2026) | EMITORAT (2025)
 🇲🇦  DALF C1   — Alliance Française (2024)
@@ -165,7 +162,7 @@ motto    : "Convertir des processus complexes en solutions intelligentes"
 <img src="https://github-readme-stats.vercel.app/api?username=hunter609&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunter609&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hunter609&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=39D353&fire=39D353&currStreakLabel=39D353" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hunter609&theme=tokyonight&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353" width="600"/>
 
 </div>
 
@@ -191,10 +188,10 @@ motto    : "Convertir des processus complexes en solutions intelligentes"
 
 ### 📬 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit-58A6FF?style=for-the-badge)](https://portfolio-mihaingo.vercel.app)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit-39D353?style=for-the-badge)](https://portfolio-mihaingo.vercel.app)
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7%20Email-Contact-EA4335?style=for-the-badge)](mailto:ramamonjiarisoaandy@gmail.com)
 [![GitHub](https://img.shields.io/badge/%F0%9F%90%99%20GitHub-Follow-181717?style=for-the-badge)](https://github.com/hunter609)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=_auto&customColorList=&fontColor=39D353&bg_color=0D1117&height=100&section=footer&customColorList=24,30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&customColorList=24,30" width="100%"/>
 
 </div>
